@@ -34,8 +34,15 @@ Inicializa el proyecto utilizando `npm install` para instalar las dependencias n
 ---
 
 ### Notas:
-- **Uso de librerías**: Puedes utilizar cualquier librería adicional que consideres necesaria para completar la prueba, pero asegúrate de documentar su uso en este README.
+### Notas:
+- **Uso de librerías**: He utilizado las siguientes librerías adicionales:
+  - `"axios": "^1.7.4"`: Esta librería se utiliza para realizar peticiones HTTP a la API, facilitando el manejo de solicitudes y respuestas.
+  - `"react-hook-form": "^7.52.2"`: Se utiliza para manejar los formularios de una manera eficiente en React, proporcionando validaciones y manejo de estado de los inputs.
+  - `"zustand": "^4.5.4"`: Se utiliza para gestionar el estado global de la aplicación de una manera sencilla y ligera.
+
 - **Estilo**: El estilo de la aplicación es flexible, pero asegúrate de que sea funcional y fácil de usar.
+
 - **Tiempo estimado**: Se recomienda que completes esta prueba en un máximo de 4 horas.
+
 
 ¡Buena suerte!
